@@ -5,6 +5,5 @@ module.exports = {
     extend: {},
   },
   plugins: [],
-  base: process.env.shafi || "shafiahamed",
 }
 
