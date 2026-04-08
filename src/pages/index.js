@@ -30,25 +30,6 @@ export default function Index(){
                 <div className="grid md:grid-cols-2 grid-cols-1 items-center gap-6">
                     <div className="">
                         <h5 className="font-semibold leading-normal text-[20px] mt-6">Hi, I'm Shafi Ahamed
-                        {/* <TypeAnimation
-                                sequence={[
-                                    // Same substring at the start will only be typed out once, initially
-                                    'Shafi Ahamed',
-                                    1000, // wait 1s before replacing "Mice" with "Hamsters"
-                                    'Freelancer',
-                                    1000,
-                                    'Website Designer',
-                                    1000,
-                                    'Web Developers',
-                                    1000,
-                                    'UI/UX Designer',
-                                    1000
-                                ]}
-                                wrapper="span"
-                                speed={10}
-                                className="typewrite ms-3"
-                                repeat={Infinity}
-                                /> */}
                        </h5>
                     
                         <h5 className="md:text-5xl md:leading-normal text-3xl leading-normal font-bold mt-3">CEO & Co-founder <br/> At Grow Digitally</h5>
