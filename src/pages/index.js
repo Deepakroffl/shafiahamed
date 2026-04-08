@@ -1,5 +1,4 @@
-import React from "react";
-import { Link } from "react-router-dom";
+import React from "react";;
 
 import bannerImg from "../assets/images/hero.png"
 import amazon from '../assets/images/team/powersoaps.png'
@@ -19,8 +18,6 @@ import Blog from "../components/blog";
 import GetInTuch from "../components/getInTuch";
 import Footer from "../components/footer";
 
-
-import { TypeAnimation } from 'react-type-animation';
 import CountUp from 'react-countup';
 
 export default function Index(){
