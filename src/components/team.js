@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 
 
 import team5 from '../assets/images/team/growdigitally-teammates.png'
