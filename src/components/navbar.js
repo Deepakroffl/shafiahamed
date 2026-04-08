@@ -15,7 +15,7 @@ export default function Navbar(){
         window.addEventListener("scroll", () => {
         setScroll(window.scrollY > 50);
         });
-    }, [activateMenu]);
+    }, []);
     
     const getClosest = (elem, selector) => {
 
